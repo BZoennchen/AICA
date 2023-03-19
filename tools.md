@@ -1,5 +1,7 @@
 # Tools, Libraries and Frameworks
 
+
+
 ## General Tools
 
 ### Neural Numers
@@ -9,6 +11,10 @@ A visualization of feedforward neural networks (FNN) on the basis of hand writte
 Online Version: [Neural Numers](https://imaginary.github.io/neural-numbers/index.html)
 
 ## Sound & Music
+
+### FolkRNN
+
+[FolkRNN](https://folkrnn.org/) is a tool to interactively generate melody supported by an RNN
 
 ### Piano Genie
 
@@ -68,7 +74,7 @@ Google offer ready to use tools to play with (**high-level**) but also an interf
 + [Librosa](https://github.com/librosa/librosa)
 + [Music21](http://web.mit.edu/music21/)
 + [Magenta](https://magenta.tensorflow.org/)
-+ [FluCoMa](https://www.flucoma.org/)
++ [FluCoMa](https://www.flucoma.org/): Machine Learning and Digital Signal Processing via SuperCollider, *Publications*: [1](https://direct.mit.edu/comj/article/45/2/9/111383/Enabling-Programmatic-Data-Mining-as-Musicking-The), [2](https://zenodo.org/record/6834643)
 
 **Computer Music**
 + [SuperCollider](https://supercollider.github.io/)
